@@ -15,6 +15,15 @@ public:
     }
 };
 
+class segitiga
+{
+    int tinggi,
+        alas;
+
+};
+
+
+
 
 
 int main()
